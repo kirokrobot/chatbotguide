@@ -1,15 +1,14 @@
 # chatbot create 
 
-==============
 ## Setting up the chatbot function
+
 - Creating the National Archives Interactive Search Chatbot
--------------
 
 ### 1. github : code management
---------------------
+
+- Familiarize yourself with how to install and use git and github, and prepare to store future code methods and contents.
 
 ### 2. Build a chatbot environment
---------------------
 
 #### Build the package
 
@@ -33,3 +32,8 @@ array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])
 2-1-3. tensorflow <br/>
 2-1-4. tflearn <br/>
 
+<<<<<<< HEAD
+=======
+
+>https://hashdork.com/ko/create-a-deep-learning-chatbot-with-python/
+>>>>>>> 75b8ca23141e7438bad7ba67ac92a65f9ed5b831
